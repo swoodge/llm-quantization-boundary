@@ -1,0 +1,2 @@
+=== fp16 baselines via HF transformers ===
+{"model_id": "qwen2.5-14b-fp16", "perplexity": 5.8056}
